@@ -1,3 +1,9 @@
 Ebola is not good.
+<<<<<<< HEAD
 Hi, My name is FATMIR
 Hi, My Name is Sean Kelly.
+=======
+I dont think this is working
+
+aswtgfdas
+>>>>>>> TestRun1
