@@ -7,3 +7,5 @@ I dont think this is working
 
 aswtgfdas
 
+This is a test of git fetch
+
