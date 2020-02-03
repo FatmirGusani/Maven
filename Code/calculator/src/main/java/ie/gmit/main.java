@@ -12,6 +12,5 @@ public class main {
         System.out.println("First Number : " + cal.getFirstNum());
         System.out.println("Second Number : " + cal.getSecondNum());
         System.out.println("First + Second : " + cal.getResult());
-
     }
 }

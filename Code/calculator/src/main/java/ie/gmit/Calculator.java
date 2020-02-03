@@ -9,6 +9,7 @@ public class Calculator {
 
 
     public Calculator() {
+
     }
 
     public Calculator(int firstNum,int secondNum)
